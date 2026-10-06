@@ -1,1 +1,1 @@
-# -Minpro-2-DDP-SistemManajemenProyekDesain
+# Minpro-2-DDP-SistemManajemenProyekDesain
