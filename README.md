@@ -165,4 +165,5 @@ Pengujian pencarian data proyek berdasarkan nama klien pada menu user:
 ### 7. Keluar Program
 Pengujian keluar dari program utama:
 (<img width="231" height="228" alt="image" src="https://github.com/user-attachments/assets/857eca78-e382-4163-be0f-fe30727bd1c7" />
+)(<img width="232" height="184" alt="image" src="https://github.com/user-attachments/assets/b32e4a54-1cb1-46d9-96de-acb82c7a4e39" />
 )
