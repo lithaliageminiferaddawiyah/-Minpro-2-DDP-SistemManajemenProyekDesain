@@ -17,7 +17,7 @@ Program memanfaatkan struktur data **Dictionary** untuk menyimpan data proyek se
 
 ## 2. Gambar Flowchart & Penjelasan Alur
 
-![Flowchart Program](<img width="2650" height="2260" alt="flowchart_minpro2" src="https://github.com/user-attachments/assets/2983e7fb-0670-4ae1-957f-861996278d72" />
+(<img width="2650" height="2260" alt="flowchart_minpro2" src="https://github.com/user-attachments/assets/2983e7fb-0670-4ae1-957f-861996278d72" />
 )
 
 ### Penjelasan Alur Flowchart:
